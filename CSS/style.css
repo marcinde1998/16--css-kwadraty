@@ -1,0 +1,39 @@
+
+h1 
+{
+    color: white;
+    margin: 3%;
+}   
+.examplet1
+{
+    background-color: #fea500;
+    width: 150px;
+    height: 150px;
+}
+.examplet2
+{
+    background-color: #fea500;
+    width: 150px;
+    height: 150px;
+}
+.examplet3
+{
+    background-color: #fea500;
+    width: 150px;
+    height: 150px;
+}
+.examplet4
+{
+    background-color: #fea500;
+    width: 150px;
+    height: 150px;
+}
+body
+{
+    background-color: #808080;
+}
+div
+{
+    margin: 10px;
+    margin-left: 4%;
+}
